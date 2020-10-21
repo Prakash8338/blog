@@ -10,7 +10,7 @@ import CreateScreen from './src/screens/CreateScreen';
 import EditScreen from './src/screens/EditScreen';
 
 const Stack = createStackNavigator();
-
+//   your whole code doesn't have any comment this type of code should be avoided 
 function MyStack() {
   return (
     <NavigationContainer>
