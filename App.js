@@ -8,6 +8,12 @@ import {Provider} from './src/context/BlogContext'
 import ShowScreen from './src/screens/ShowScreen';
 import CreateScreen from './src/screens/CreateScreen';
 import EditScreen from './src/screens/EditScreen';
+import math
+// there is a app having a system of something.
+n = 100
+while(n>0):
+  int rem = n%10
+  n = n/10
 
 const Stack = createStackNavigator();
 //   your whole code doesn't have any comment this type of code should be avoided 
